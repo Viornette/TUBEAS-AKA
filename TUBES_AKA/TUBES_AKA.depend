@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1734930930 source:d:\rpl\semester 3\analisis algoritma\tubes_aka\aritmatika.cpp
+	"aritmatika.h"
+
+1734929352 d:\rpl\semester 3\analisis algoritma\tubes_aka\aritmatika.h
+	<iostream>
+	<cmath>
+
+1734957996 source:d:\rpl\semester 3\analisis algoritma\tubes_aka\main.cpp
+	<iostream>
+	<cmath>
+	"aritmatika.h"
+
